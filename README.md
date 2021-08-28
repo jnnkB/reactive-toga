@@ -4,6 +4,8 @@ This is an experimental proof-of-concept for an libary for writing reactive appl
 
 ## Example
 
+![Picture of an example application containg a button and a label that shows the number 4](.readme-assets/example.png)
+
 ```python
 from reactive_toga import App, State, VerticalStack, Button, Label
 
